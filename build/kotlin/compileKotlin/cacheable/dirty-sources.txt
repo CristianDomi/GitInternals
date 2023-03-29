@@ -1,0 +1,12 @@
+C:\Users\elcri\IdeaProjects\GitInternals\src\main\kotlin\Exceptions.kt
+C:\Users\elcri\IdeaProjects\GitInternals\src\main\kotlin\Tree.kt
+C:\Users\elcri\IdeaProjects\GitInternals\src\main\kotlin\Enums.kt
+C:\Users\elcri\IdeaProjects\GitInternals\src\main\kotlin\Utils.kt
+C:\Users\elcri\IdeaProjects\GitInternals\src\main\kotlin\TreeHelper.kt
+C:\Users\elcri\IdeaProjects\GitInternals\src\main\kotlin\CommitHelper.kt
+C:\Users\elcri\IdeaProjects\GitInternals\src\main\kotlin\GitObject.kt
+C:\Users\elcri\IdeaProjects\GitInternals\src\main\kotlin\FileUtils.kt
+C:\Users\elcri\IdeaProjects\GitInternals\src\main\kotlin\Main.kt
+C:\Users\elcri\IdeaProjects\GitInternals\src\main\kotlin\Commit.kt
+C:\Users\elcri\IdeaProjects\GitInternals\src\main\kotlin\ExtensionsFunctions.kt
+C:\Users\elcri\IdeaProjects\GitInternals\src\main\kotlin\Blob.kt
